@@ -42,8 +42,3 @@ This week’s exercises focused on **Series**, **DataFrames**, data indexing, im
 
 ---
 
-## 🚀 How to Run
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/malik8154/AICP-Internship-Week2-Pandas-Exercises.git
-   cd AICP-Internship-Week2-Pandas-Exercises
