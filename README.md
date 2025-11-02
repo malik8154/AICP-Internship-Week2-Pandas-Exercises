@@ -1,16 +1,16 @@
-# 🐼 AICP Internship – Week 2: Pandas Exercises
+# AICP Internship – Week 2: Pandas Exercises
 
 This repository contains solutions to **Pandas practice exercises** completed as part of the **Artificial Intelligence Community of Pakistan (AICP)** internship program.
 
 ---
 
-## 📝 Task Overview
+## Task Overview
 Pandas is a powerful Python library for data manipulation and analysis, built on top of NumPy.  
 This week’s exercises focused on **Series**, **DataFrames**, data indexing, importing/exporting CSV & Excel files, and performing basic statistics.
 
 ---
 
-## 📂 Exercises
+## Exercises
 1. **Create a Pandas Series** without using a dictionary.
 2. **Create a Pandas Series** using a dictionary.
 3. **Create a Pandas DataFrame** from a Python dictionary.
@@ -36,9 +36,8 @@ This week’s exercises focused on **Series**, **DataFrames**, data indexing, im
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy
 
 ---
-
